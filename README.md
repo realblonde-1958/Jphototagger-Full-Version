@@ -241,4 +241,4 @@ This repository serves as the official landing page for JPhotoTagger. The softwa
 **Get the most recent version of JPhotoTagger today!**
 
 ---
-**Last updated:** 2026-09-17 17:47:25 UTC
+**Last updated:** 2026-09-17 20:39:19 UTC
